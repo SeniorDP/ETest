@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/cortex-v2-example/unity/Assets/EmotivUnityPlugin.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
